@@ -8,10 +8,10 @@ title = 'Cosmic Earth Medicine'
 theme = 'hugo-universal-theme'
 
 ## See https://github.com/devcows/hugo-universal-theme
-
-style = 'violet'
+## See https://github.com/devcows/hugo-universal-theme/blob/master/exampleSite/config.toml
 
 [params]
+    style = 'violet'
 
     ## Logo, see https://github.com/devcows/hugo-universal-theme?tab=readme-ov-file#logo
     disabled_logo = true
@@ -21,6 +21,11 @@ style = 'violet'
     logo_small = "img/logo-small.png"
 
     dropdown_mouse_over = true
+    copyright = "Copyright (c) 2024, Yemaya Rodriguez and Nicco Kunzmann; all rights reserved."
+    date_format = "January 2, 2006"
+
+[permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
 
 [[params.menu]]
     name = "Contact"
@@ -79,10 +84,10 @@ style = 'violet'
     weight = 1
     name = "GitHub"
     url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fas fa-2x fa-github'></i>"
+    pre = '<i class="fa-brands fa-2x fa-github"></i>'
 
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
     url = "http://facebook.com"
-    pre = "<i class='fas fa-2x fa-facebook'></i>"
+    pre = '<i class="fa-brands fa-2x fa-facebook"></i>'
