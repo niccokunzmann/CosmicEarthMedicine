@@ -7,11 +7,17 @@ A site for Yemaya Rodriguez
 1. Install Hugo
 2. Install `npm`
 3. Install packages
-
     ```shell
     npm install
     ```
-4. Run the server
-   ```shell
-   hugo server -D --navigateToChanged
-   ```
+4. clone repo
+    ```shell
+    git clone
+    cd CosmicEarthMedicine
+    git submodule init
+    git submodule update
+    ```
+5. Run the server
+    ```shell
+    hugo server -D -N --noBuildLock --bind 0.0.0.0
+    ```
