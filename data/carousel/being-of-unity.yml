@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: 2024 Nicco Kunzmann <niccokunzmann@rambler.ru>
+#
+# SPDX-License-Identifier: LicenseRef-mine
+
+weight: 4
+title: "Being of Unity"
+description: >
+  <ul class="list-style-none">
+    <li>Courses & Awareness Training</li>
+    <li>White mums, Brown Kids</li>
+  </ul>
+image: "img/carousel/template-easy-code.png"
+href: "https://devcows.github.io/hugo-universal-theme/"

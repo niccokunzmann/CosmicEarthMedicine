@@ -83,7 +83,7 @@ theme = 'hugo-universal-theme'
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
+    url = "https://github.com/niccokunzmann/CosmicEarthMedicine"
     pre = '<i class="fa-brands fa-2x fa-github"></i>'
 
 [[menu.topbar]]
