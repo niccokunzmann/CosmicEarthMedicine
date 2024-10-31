@@ -1,0 +1,4 @@
+baseURL = 'https://CosmicEarthMedicine.co.uk/'
+languageCode = 'en-uk'
+title = 'Cosmic Earth Medicine'
+theme = 'hugo-universal-theme'
