@@ -5,7 +5,7 @@
 # Run pytest for each commit.
 # See also
 #    https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python#running-tests-with-tox
-name: "Build, Test & Publish"
+name: "Build & Test"
 
 on: [push]
 
@@ -31,100 +31,22 @@ jobs:
         # Run tox using the version of Python in `PATH`
         run: tox -e reuse
 
-  gh-pages:
-    name: "Publish Documentation to GitHub Pages"
-    runs-on: ubuntu-latest
-    if: github.ref_name == 'main'
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # required for mkdocs git date, see  https://github.com/timvink/mkdocs-git-revision-date-localized-plugin?tab=readme-ov-file#note-when-using-build-environments
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: 3.11
-      - name: Install tox
-        run: pip install tox
-      - name: mkdocs
-        # Run tox using the version of Python in `PATH`
-        run: tox -e docs -- gh-deploy
-
-  link-check:
-    name: "Check Links in Documentation"
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # required for mkdocs git date, see  https://github.com/timvink/mkdocs-git-revision-date-localized-plugin?tab=readme-ov-file#note-when-using-build-environments
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: 3.11
-      - name: Install tox
-        run: pip install tox linkchecker
-      - name: Check Links
-        run: scripts/check-links-in-documentation.sh
-      - uses: actions/upload-artifact@v4
-        with:
-          name: checked-links.html
-          path: linkchecker-out.html
-
-
-  dockerhub:
-    name: Publish Docker Image on Docker Hub
-    runs-on: ubuntu-latest
-    if: github.ref_name == 'master' || startsWith(github.ref, 'refs/tags/v')
-    # This environment stores the DOCKERHUB_USERNAME and DOCKERHUB_TOKEN
-    # see https://docs.github.com/en/actions/deployment/targeting-different-environments/using-environments-for-deployment
-    environment:
-      name: dockerhub
-      url: https://hub.docker.com/r/niccokunzmann/open-web-calendar
-    needs:
-      - build
-    steps:
-      - name: Check out the repo
-        uses: actions/checkout@v4
-
-      - name: Set up QEMU
-        uses: docker/setup-qemu-action@v3
-
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v3
-
-      - name: Log in to Docker Hub
-        uses: docker/login-action@0d4c9c5ea7693da7b068278f7b52bda2a190a446
-        with:
-          username: ${{ secrets.DOCKERHUB_USERNAME }}
-          password: ${{ secrets.DOCKERHUB_TOKEN }}
-
-      - name: Extract metadata (tags, labels) for Docker
-        id: meta
-        uses: docker/metadata-action@v5
-        with:
-          images: niccokunzmann/open-web-calendar
-
-      - name: Build and push Docker image
-        uses: docker/build-push-action@v6
-        with:
-          context: .
-          push: true
-          tags: ${{ steps.meta.outputs.tags }}
-          platforms: linux/amd64,linux/arm64,linux/arm/v7,linux/386,linux/arm/v6
-          labels: ${{ steps.meta.outputs.labels }}
-
-  github-release:
-    name: "Publish GitHub Release"
-    # only deploy on tags, see https://stackoverflow.com/a/58478262/1320237
-    if: startsWith(github.ref, 'refs/tags/v')
-    needs:
-      - build
-      - dockerhub
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: create release
-        uses: ncipollo/release-action@v1
-        with:
-          allowUpdates: true
-          body: "For a list of changes, please refer to the [Changelog](https://open-web-calendar.quelltext.eu/changelog/)."
-          generateReleaseNotes: false
+  # link-check:
+  #   name: "Check Links in Documentation"
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #       with:
+  #         fetch-depth: 0 # required for mkdocs git date, see  https://github.com/timvink/mkdocs-git-revision-date-localized-plugin?tab=readme-ov-file#note-when-using-build-environments
+  #     - name: Setup Python
+  #       uses: actions/setup-python@v5
+  #       with:
+  #         python-version: 3.11
+  #     - name: Install tox
+  #       run: pip install tox linkchecker
+  #     - name: Check Links
+  #       run: scripts/check-links-in-documentation.sh
+  #     - uses: actions/upload-artifact@v4
+  #       with:
+  #         name: checked-links.html
+  #         path: linkchecker-out.html
