@@ -1,4 +1,88 @@
+# SPDX-FileCopyrightText: 2024 Nicco Kunzmann <niccokunzmann@rambler.ru>
+#
+# SPDX-License-Identifier: LicenseRef-mine
+
 baseURL = 'https://CosmicEarthMedicine.co.uk/'
 languageCode = 'en-uk'
 title = 'Cosmic Earth Medicine'
 theme = 'hugo-universal-theme'
+
+## See https://github.com/devcows/hugo-universal-theme
+
+style = 'violet'
+
+[params]
+
+    ## Logo, see https://github.com/devcows/hugo-universal-theme?tab=readme-ov-file#logo
+    disabled_logo = true
+    logo_text = "Cosmic Earth Medicine"
+
+    logo = "img/logo.png"
+    logo_small = "img/logo-small.png"
+
+    dropdown_mouse_over = true
+
+[[params.menu]]
+    name = "Contact"
+    url  = "/contact"
+    weight = 4
+
+[[menu.main]]
+    name       = "All Pages"
+    identifier = "menu.allpages"
+    url        = ""
+    weight     = 4
+
+[[menu.main]]
+    name       = "Home"
+    identifier = "section.ap-home"
+    url        = ""
+    weight     = 1
+    parent     = "menu.allpages"
+    post       = 1
+
+[[menu.main]]
+    name       = "Portfolio"
+    identifier = "section.ap-portfolio"
+    url        = ""
+    weight     = 1
+    parent     = "menu.allpages"
+    post       = 2
+
+[[menu.main]]
+    name       = "Shop"
+    identifier = "section.ap-shop"
+    url        = ""
+    weight     = 1
+    parent     = "menu.allpages"
+    post       = 3
+
+[[menu.main]]
+    name       = "Blog"
+    identifier = "section.ap-blog"
+    url        = ""
+    weight     = 3
+    parent     = "menu.allpages"
+    post       = 4
+
+[[menu.main]]
+    name       = "Blog Listing Big"
+    url        = "/blog/"
+    weight     = 1
+    parent     = "section.ap-blog"
+
+[params.topbar]
+    enable = true
+    text = "<p>Contact Yemaya on <a href='tel:+447540951912'>+44 7540 951 912</a></p>"
+
+[[menu.topbar]]
+    weight = 1
+    name = "GitHub"
+    url = "https://github.com/devcows/hugo-universal-theme"
+    pre = "<i class='fas fa-2x fa-github'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Facebook"
+    url = "http://facebook.com"
+    pre = "<i class='fas fa-2x fa-facebook'></i>"
