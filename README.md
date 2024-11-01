@@ -19,5 +19,5 @@ A site for Yemaya Rodriguez
     ```
 5. Run the server
     ```shell
-    hugo server -D -N --noBuildLock --bind 0.0.0.0
+    hugo server -D -N --noBuildLock --bind 0.0.0.0 --noHTTPCache
     ```

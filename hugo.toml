@@ -3,6 +3,7 @@
 # SPDX-License-Identifier: LicenseRef-mine
 
 baseURL = 'https://CosmicEarthMedicine.co.uk/'
+noBuildLock = true
 languageCode = 'en-uk'
 title = 'Cosmic Earth Medicine'
 theme = 'hugo-universal-theme'
