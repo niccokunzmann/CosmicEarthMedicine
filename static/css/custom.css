@@ -3,3 +3,33 @@
  *
  * SPDX-License-Identifier: LicenseRef-mine
  */
+
+/*  figure style  */
+figure img {
+  max-width: 300px;
+  border-radius: 1em;
+  align-self: center;
+}
+
+@media only screen and (min-width: 600px) {
+  figure {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1em;
+  }
+  figcaption {
+    padding: 2em;
+    max-width: 300px;
+  }
+}
+
+
+/* small screen  */
+@media only screen and (max-width: 601px) {
+  figure {
+    text-align: center;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+  }
+}

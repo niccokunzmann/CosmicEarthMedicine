@@ -24,6 +24,8 @@ Sound can move stuck and stagnant energy from around the body. As we know from o
 
 ## 1:1 Sound Healing Sessions
 
+{{< figure src="/img/yemaya-gong.jpg" title="Personalised Sound and Gong Baths by Yemaya Rodriguez" caption="Enjoy a tailored sound experience.">}}
+
 Sound can touch us deeply, excavating things like buried stories, ancestral wounds and grief.
 Within our 1:1 sessions I hold a safe, trauma informed, space for these tender stories and emotions to bubble up as the medium of sounds moves the energy towards release.
 In our 1:1 sessions I offer you a bespoke sound healing experience;  We explore what sound tools would be most resonant with you and what you are looking to work on. Committing to a bundle of sessions means we can work with many sound tools and you will get to experience the unique way each tool resonates with your total being.
@@ -57,6 +59,7 @@ To be used within 6 months.
 
 ## Group Sound Baths/Sound Journeys
 
+{{< figure src="/img/yemaya-sound-bath.jpg" title="Participate in Regular Sound Journeys" caption="My regular sound baths in Carmarthenshire and Cardiff are a perfect opportunity to join me and experience how I work.">}}
 
 Coming to a sound bath is a lovely way to dip your toes in to the healing power of Sacred Sound.
 Receiving Sound Medicine within a group sound Journey or Bath is largely pleasurable to the senses. It’s a time out. Sometimes we can also drop into deep spaces during the Sound Bath. You shall be supported.
