@@ -3,11 +3,11 @@
 # SPDX-License-Identifier: LicenseRef-mine
 
 weight: 4
-title: "Sound Healing"
+title: "Sound Bath"
 description: >
   <ul class="list-style-none">
     <li>Sound journeys for groups</li>
     <li>Healing vibrations on the body</li>
   </ul>
 image: "img/carousel/template-easy-code.png"
-href: "https://devcows.github.io/hugo-universal-theme/"
+href: "/sound-medicine/#group-sound-baths-sound-journeys"
