@@ -100,3 +100,20 @@ theme = 'hugo-universal-theme'
     url = "https://t.me/yem_aya"
     pre = '<i class="fa-brands fa-2x fa-telegram"></i>'
 
+
+
+[privacy]
+# see https://gohugo.io/about/privacy/
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
+
