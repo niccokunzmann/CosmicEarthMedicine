@@ -4,10 +4,13 @@
  * SPDX-License-Identifier: LicenseRef-mine
  */
 
+img {
+  border-radius: 1em;
+}
+
 /*  figure style  */
 figure img {
   max-width: 300px;
-  border-radius: 1em;
   align-self: center;
 }
 
@@ -32,4 +35,11 @@ figure img {
   h1, h2, h3, h4, h5, h6 {
     text-align: center;
   }
+}
+
+
+/* carousel */
+
+.owl-carousel .item {
+  margin-right: 2em;
 }
