@@ -25,6 +25,12 @@ theme = 'hugo-universal-theme'
     copyright = "Copyright (c) 2024, Yemaya Rodriguez and Nicco Kunzmann; all rights reserved."
     date_format = "January 2, 2006"
 
+    formspree_action = "https://formspree.io/f/xpwzpoar"
+    email = "yemaya.earthing@proton.me"
+    contact_form_ajax = false
+    enableRecaptchaInContactForm = true
+    googleRecaptchaKey = "6LfpknMqAAAAAJ9zYYIttHIwGudXJcMgveyFbUnv"
+
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
@@ -99,7 +105,6 @@ theme = 'hugo-universal-theme'
     name = "Telegram"
     url = "https://t.me/yem_aya"
     pre = '<i class="fa-brands fa-2x fa-telegram"></i>'
-
 
 
 [privacy]
