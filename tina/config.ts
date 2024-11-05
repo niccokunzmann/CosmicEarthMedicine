@@ -1,4 +1,5 @@
 import { defineConfig } from "tinacms";
+require('dotenv').config();
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
