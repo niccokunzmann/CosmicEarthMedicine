@@ -3,6 +3,7 @@
 # SPDX-License-Identifier: LicenseRef-mine
 
 baseURL = 'https://CosmicEarthMedicine.co.uk/'
+noBuildLock = true
 languageCode = 'en-uk'
 title = 'Cosmic Earth Medicine'
 theme = 'hugo-universal-theme'
@@ -24,70 +25,100 @@ theme = 'hugo-universal-theme'
     copyright = "Copyright (c) 2024, Yemaya Rodriguez and Nicco Kunzmann; all rights reserved."
     date_format = "January 2, 2006"
 
+    formspree_action = "https://formspree.io/f/xpwzpoar"
+    email = "yemaya.earthing@proton.me"
+    contact_form_ajax = false
+    enableRecaptchaInContactForm = true
+    googleRecaptchaKey = "6LfpknMqAAAAAJ9zYYIttHIwGudXJcMgveyFbUnv"
+
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
-[[params.menu]]
-    name = "Contact"
-    url  = "/contact"
-    weight = 4
-
-[[menu.main]]
-    name       = "All Pages"
-    identifier = "menu.allpages"
-    url        = ""
-    weight     = 4
+#[[params.menu]]
+#    name = "Contact"
+#    url  = "/contact"
+#    weight = 4
 
 [[menu.main]]
     name       = "Home"
     identifier = "section.ap-home"
-    url        = ""
+    url        = "/"
     weight     = 1
-    parent     = "menu.allpages"
-    post       = 1
+#    post       = 1
 
 [[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.ap-portfolio"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 2
+    name       = "Sound"
+    identifier = "section.ap-sound-medicine"
+    url        = "/sound-medicine/"
+    weight     = 2
 
 [[menu.main]]
-    name       = "Shop"
-    identifier = "section.ap-shop"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "section.ap-blog"
-    url        = ""
+    name       = "Contact"
+    identifier = "section.ap-contact"
+    url        = "/contact/"
     weight     = 3
-    parent     = "menu.allpages"
-    post       = 4
 
-[[menu.main]]
-    name       = "Blog Listing Big"
-    url        = "/blog/"
-    weight     = 1
-    parent     = "section.ap-blog"
 
 [params.topbar]
     enable = true
-    text = "<p>Contact Yemaya on <a href='tel:+447540951912'>+44 7540 951 912</a></p>"
+    text = ""
+    #"<p>Contact Yemaya on <a href='tel:+447540951912'>+44 7540 951 912</a></p>"
 
 [[menu.topbar]]
-    weight = 1
+    weight = 20
     name = "GitHub"
     url = "https://github.com/niccokunzmann/CosmicEarthMedicine"
     pre = '<i class="fa-brands fa-2x fa-github"></i>'
 
 [[menu.topbar]]
+    weight = 1
+    name = "Instagram"
+    url = "https://www.instagram.com/cosmic_earth_medicine_"
+    pre = '<i class="fa-brands fa-2x fa-instagram"></i>'
+
+[[menu.topbar]]
+    weight = 4
+    name = "Phone"
+    url = "tel:+447540951912"
+    pre = '<i class="fa-solid fa-2x fa-phone"></i>'
+
+[[menu.topbar]]
+    weight = 3
+    name = "Email"
+    url = "mailto:yemaya.earthing@proton.me"
+    pre = '<i class="fa-regular fa-2x fa-envelope"></i>'
+
+[[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "http://facebook.com"
+    url = "https://m.facebook.com/yemrodriguez.735/"
     pre = '<i class="fa-brands fa-2x fa-facebook"></i>'
+
+[[menu.topbar]]
+    weight = 2
+    name = "Whatsapp"
+    url = "https://wa.me/+447540951912"
+    pre = '<i class="fa-brands fa-2x fa-whatsapp"></i>'
+
+[[menu.topbar]]
+    weight = 2
+    name = "Telegram"
+    url = "https://t.me/yem_aya"
+    pre = '<i class="fa-brands fa-2x fa-telegram"></i>'
+
+
+[privacy]
+# see https://gohugo.io/about/privacy/
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
+
