@@ -48,6 +48,30 @@ export default defineConfig({
           },
         ],
       },
+      {
+        name: "page",
+        label: "Pages",
+        path: "content",
+        match: { // see https://tina.io/docs/reference/collections#matchinclude
+          include: "*"
+        },
+        format: "md",
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
     ],
   },
 });

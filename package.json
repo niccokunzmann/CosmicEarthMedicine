@@ -5,6 +5,10 @@
   },
   "devDependencies": {
     "@tinacms/cli": "^1.6.11",
-    "@types/node": "^22.8.7"
+    "@types/node": "^22.9.0"
+  },
+  "scripts": {
+    "dev": "tinacms dev -c \"hugo server -D -N --noBuildLock --bind 0.0.0.0 --noHTTPCache\"",
+    "build": "tinacms build && hugo"
   }
 }
