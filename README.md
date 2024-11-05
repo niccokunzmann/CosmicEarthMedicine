@@ -21,3 +21,7 @@ A site for Yemaya Rodriguez
     ```shell
     hugo server -D -N --noBuildLock --bind 0.0.0.0
     ```
+    Or
+    ```shell
+    yarn dev
+    ```
