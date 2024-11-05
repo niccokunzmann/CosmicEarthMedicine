@@ -107,6 +107,13 @@ enableGitInfo = true
     url = "https://t.me/yem_aya"
     pre = '<i class="fa-brands fa-2x fa-telegram"></i>'
 
+[[menu.topbar]]
+    weight = 40
+    name = "Edit Site"
+    url = "/admin"
+    pre = '<i class="fa-solid fa-2x fa-user-pen"></i>'
+
+
 
 [privacy]
 # see https://gohugo.io/about/privacy/
