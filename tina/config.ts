@@ -11,6 +11,7 @@ const branch =
 export default defineConfig({
   branch,
 
+  // You can store those in the .env file.
   // Get this from tina.io https://app.tina.io/projects/e33c1a70-7ece-4d0d-b58a-815dddd3d3bd/overview
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
   // Get this from tina.io https://app.tina.io/projects/e33c1a70-7ece-4d0d-b58a-815dddd3d3bd/tokens
