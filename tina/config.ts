@@ -1,5 +1,9 @@
 import { defineConfig } from "tinacms";
-require('dotenv').config();
+try {
+  require('dotenv').config();
+} catch (e) {
+  console.log("Could not load .env file - this is ok if you do not run a local build.");
+}
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
