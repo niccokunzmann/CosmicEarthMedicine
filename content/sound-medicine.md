@@ -1,12 +1,11 @@
-+++
+---
 # SPDX-FileCopyrightText: 2024 Nicco Kunzmann <niccokunzmann@rambler.ru>
 # SPDX-FileCopyrightText: 2024 Yemaya Rodriguez
 #
 # SPDX-License-Identifier: LicenseRef-mine
-date = '2024-11-02T17:10:33Z'
-title = 'Sound Medicine'
-tags = ['energy', 'healing', 'meditation', 'sound', 'restoration']
-+++
+title: 'Sound Medicine'
+tags: ['energy', 'healing', 'meditation', 'sound', 'restoration']
+---
 
 > The use of Sacred Healing Frequencies to support, restore and stimulate health, healing and well-being. 
 

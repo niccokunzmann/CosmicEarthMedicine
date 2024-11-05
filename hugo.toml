@@ -7,6 +7,7 @@ noBuildLock = true
 languageCode = 'en-uk'
 title = 'Cosmic Earth Medicine'
 theme = 'hugo-universal-theme'
+enableGitInfo = true
 
 ## See https://github.com/devcows/hugo-universal-theme
 ## See https://github.com/devcows/hugo-universal-theme/blob/master/exampleSite/config.toml
