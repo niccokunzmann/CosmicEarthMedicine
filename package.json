@@ -9,6 +9,6 @@
   },
   "scripts": {
     "dev": "tinacms dev -c \"hugo server -D -N --noBuildLock --bind 0.0.0.0 --noHTTPCache\"",
-    "build": "tinacms build && hugo"
+    "build": "tinacms build && hugo --gc --minify"
   }
 }

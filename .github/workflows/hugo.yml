@@ -56,16 +56,22 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Check Environment Variables for Tina CMS
+        run: |
+          if [ -z "$NEXT_PUBLIC_TINA_CLIENT_ID" ]; then
+            echo "Set NEXT_PUBLIC_TINA_CLIENT_ID!"
+            exit 1
+          fi
+          if [ -z "$TINA_TOKEN" ]; then
+            echo "Set TINA_TOKEN!"
+            exit 1
+          fi
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
           TZ: Europe/London
-        run: |
-          hugo \
-            --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
+        run: npm build       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
