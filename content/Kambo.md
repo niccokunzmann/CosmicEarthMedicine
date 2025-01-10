@@ -6,6 +6,8 @@ title: Kambô Medicine
 
 Kambô is a sacred medicine ethically harvested from the secretion of the Bicolour Tree Frog, native to the Amazon Rainforest. The secretion, known as Kambô, is rich in peptides—molecules that act as communicators for our hormones and help regulate various bodily functions.
 
+![](/img/signal-2025-01-10-151151_003.jpeg)
+
 #### **Why Use Kambô ?**
 
 There are many reasons people choose to work with Kambô, both physically and energetically.
@@ -28,11 +30,13 @@ Our lymphatic system is incredibly responsive, and the effects of Kambô are usu
 
 I hold Kambô ceremonies in a more shamanic way using smokes and resins, and sound healing. The ceremony would last approximately 4 hours. You may need longer to rest after before going home or being left alone.
 
-If you are called to have a Kambô ceremony, I will send you a medical questionnaire- it is important that you disclose all medical history past and present. While Kambo is very safe when practised by an experienced and knowledgeable and practitioner,  there are some conditions that Kambô is absolutely contraindicated for.
+If you are called to have a Kambô ceremony, I will send you a medical questionnaire- it is important that you disclose all medical history past and present. While Kambô is very safe when practised by an experienced and knowledgeable and practitioner,  there are some conditions that Kambô is absolutely contraindicated for.
 
 Please also disclose any prescription allopathic drugs, recreational drugs and plant/fungi/ amphibian medicine.
 
 If this sounds good, the next step is to consider whether you would like to come to me, or have me make a house call to you. And the level of privacy you want.
+
+![](/img/signal-2025-01-10-151151_002.jpeg)
 
 ### **Kambô & Sound Ceremony Exchange**
 
@@ -44,6 +48,6 @@ If this sounds good, the next step is to consider whether you would like to come
 
 If I come to you, after a 10 mile radius of where I live, then please add 45p per mile
 
-Check this page and my social media for group ** **Kambô Ceremony dates!
+Check this page and my social media for group \*\* \*\*Kambô Ceremony dates!
 
-Viva Kambô! 
+Viva Kambô!
