@@ -12,6 +12,8 @@ const branch =
   process.env.HEAD ||
   "main";
 
+import { post, page } from "./collections/post";
+
 export default defineConfig({
   branch,
 
@@ -34,109 +36,8 @@ export default defineConfig({
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
   schema: {
     collections: [
-      {
-        name: "post",
-        label: "Posts",
-        path: "content/posts",
-        fields: [
-          {
-            type: "string",
-            name: "title",
-            label: "Title",
-            isTitle: true,
-            required: true,
-          },
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
-            templates : [
-              {
-                name: 'WarningCallout',
-                label: 'WarningCallout',
-                match: {
-                  start: '{{',
-                  end: '}}',
-                },
-                fields: [
-                  {
-                    name: 'content',
-                    label: 'Content',
-                    type: 'string',
-                    required: true,
-                    ui: {
-                      component: 'textarea',
-                    },
-                  },
-                ],
-              },
-              {
-                name: 'figure',
-                label: 'figure',
-                match: {
-                  start: '{{<',
-                  end: '>}}',
-                },
-                fields: [
-                  {
-                    name: 'src',
-                    label: 'src',
-                    type: 'image',
-                    required: true,
-                    ui: {
-                      component: 'image-uploader',
-                    },
-                  },
-                  {
-                    name: 'title',
-                    label: 'title',
-                    type: 'string',
-                    required: true,
-                    ui: {
-                      component: 'input',
-                    },
-                  },
-                  {
-                    name: 'caption',
-                    label: 'caption',
-                    type: 'string',
-                    required: true,
-                    ui: {
-                      component: 'input',
-                    },
-                  },
-
-                ]
-              }
-            ]
-          },
-        ],
-      },
-      {
-        name: "page",
-        label: "Pages",
-        path: "content",
-        match: { // see https://tina.io/docs/reference/collections#matchinclude
-          include: "*"
-        },
-        format: "md",
-        fields: [
-          {
-            type: "string",
-            name: "title",
-            label: "Title",
-            isTitle: true,
-            required: true,
-          },
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
-          },
-        ],
-      },
+      post,
+      page
     ],
   },
 });

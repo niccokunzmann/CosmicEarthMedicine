@@ -54,10 +54,22 @@ enableGitInfo = true
     weight     = 2
 
 [[menu.main]]
+    name       = "Fear Medicine"
+    identifier = "section.ap-fear-medicine"
+    url        = "/Fear-Medicine/"
+    weight     = 3
+
+[[menu.main]]
+    name       = "Kambô"
+    identifier = "section.ap-kambo"
+    url        = "/Kambo/"
+    weight     = 4
+
+[[menu.main]]
     name       = "Contact"
     identifier = "section.ap-contact"
     url        = "/contact/"
-    weight     = 3
+    weight     = 10
 
 
 [params.topbar]

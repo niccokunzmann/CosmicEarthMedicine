@@ -6,6 +6,7 @@ tags:
   - sound
   - restoration
 title: Sound Medicine
+draft: false
 ---
 
 Tailored Sound Healing ExperienceSound has a profound ability to touch us deeply, unearthing buried stories, ancestral wounds, and unresolved grief. In our 1:1 sound healing sessions, I create a safe, trauma-informed space where these tender emotions and memories can surface, allowing the healing power of sound to move and release stagnant energy.

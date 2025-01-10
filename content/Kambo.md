@@ -24,7 +24,7 @@ To access the lymphatic system, small, superficial burns (called “gates”) ar
 
 Our lymphatic system is incredibly responsive, and the effects of Kambô are usually felt within a minute. During a Kambô session, we drink up to 3 litres of water, which helps to support the medicine’s cleansing action and facilitate the purge (often through vomiting), further assisting the body in releasing toxins and stagnant energy.
 
-**I am an[ IAKP](https://iakp.org/about-the-iakp/) trained  Kambô practitioner and I adhere to their safety standards and policies. **
+**I am an[ IAKP](https://iakp.org/about-the-iakp/) trained Kambô practitioner and I adhere to their safety standards and policies.**
 
 I hold Kambô ceremonies in a more shamanic way using smokes and resins, and sound healing. The ceremony would last approximately 4 hours. You may need longer to rest after before going home or being left alone.
 
