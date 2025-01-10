@@ -9,7 +9,9 @@ title: Sound Medicine
 draft: false
 ---
 
-Tailored Sound Healing ExperienceSound has a profound ability to touch us deeply, unearthing buried stories, ancestral wounds, and unresolved grief. In our 1:1 sound healing sessions, I create a safe, trauma-informed space where these tender emotions and memories can surface, allowing the healing power of sound to move and release stagnant energy.
+### Tailored Sound Healing Experience
+
+Sound has a profound ability to touch us deeply, unearthing buried stories, ancestral wounds, and unresolved grief. In our 1:1 sound healing sessions, I create a safe, trauma-informed space where these tender emotions and memories can surface, allowing the healing power of sound to move and release stagnant energy.
 
 Each session is a bespoke experience, tailored to your unique needs. Together, we’ll explore which sound tools resonate most with you and what areas you wish to focus on. Committing to a series of sessions allows us to work with a variety of sound tools, giving you the opportunity to experience the distinct ways each one interacts with your body, mind, and spirit. Depending on the session, you may receive a sonic massage, where sound tools are applied directly to your body, or you may experience sound resonating through your auric field, vibrating and shifting your energy from the outside in. Both methods are deeply effective in facilitating healing and transformation.
 
