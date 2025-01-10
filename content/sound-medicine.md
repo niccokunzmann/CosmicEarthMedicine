@@ -72,7 +72,7 @@ To be used within 6 months.
 
 ### Group Sound Bath
 
-Join a Regular Sound  Bath /Journey
+Join a Regular Sound  Bath / Journey
 
 My regular sound baths in Carmarthenshire and Cardiff offer a wonderful opportunity to experience the healing power of Sacred Sound. These sessions are a perfect introduction to Sound Medicine, allowing you to immerse yourself in the transformative energy of sound within a group setting.
 
