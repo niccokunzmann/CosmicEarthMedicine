@@ -30,7 +30,7 @@ What you’ll experience in this 3-6 month **Fear Medicine** mentoring container
 
 **Are You Ready to Step Into the Next Version of Yourself?**
 
-This process isn’t about quick fixes. It’s about transformation, deep, steady, and powerful work. While it’s not always easy, with my support and gentle guidance, you’ll move faster and with more clarity on your journey toward authentic expression of your unique human blueprint. 
+This process isn’t about quick fixes. It’s about transformation, deep, steady, and powerful work. While it’s not always easy, with my support and gentle guidance, you’ll move faster and with more clarity on your journey toward authentic expression of your unique human blueprint.
 
 ### Mentoring Program Options:
 
