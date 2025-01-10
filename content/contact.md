@@ -7,7 +7,7 @@ title: 'Reach Yemaya'
 id: 'contact'
 ---
 
-{{< figure src="/img/yemaya-square.jpg" title="Yemaya Rodriguez" >}}
+![Yemaya Rodriguez](/img/contact.jpg)
 
 There are several ways to contact me. You can find them all in the top right corner of the page.
 My favourite contact method is **email**. You can write to me directly or use the contact form below.
