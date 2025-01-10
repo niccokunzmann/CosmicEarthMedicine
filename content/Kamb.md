@@ -44,4 +44,6 @@ If this sounds good, the next step is to consider whether you would like to come
 
 If I come to you, after a 10 mile radius of where I live, then please add 45p per mile
 
-Viva Kambô
+Check this page and my social media for group ** **Kambô Ceremony dates!
+
+Viva Kambô! 
