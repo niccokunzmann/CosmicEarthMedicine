@@ -6,6 +6,8 @@
 
 img {
   border-radius: 1em;
+  max-width: 300px;
+  align-self: center;
 }
 
 /*  figure style  */
@@ -34,6 +36,9 @@ figure img {
   }
   h1, h2, h3, h4, h5, h6 {
     text-align: center;
+  }
+  img {
+    max-width: 100%;
   }
 }
 
