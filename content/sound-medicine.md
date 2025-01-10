@@ -42,7 +42,7 @@ To be used within 6 months.
 
 ## Group Sound Baths/Sound Journeys
 
-{{\< figure src="/img/yemaya-sound-bath.jpg" title="Participate in Regular Sound Journeys" caption="My regular sound baths in Carmarthenshire and Cardiff are a perfect opportunity to join me and experience how I work.">}}
+{{< figure src="/img/yemaya-sound-bath.jpg" title="Participate in Regular Sound Journeys" caption="My regular sound baths in Carmarthenshire and Cardiff are a perfect opportunity to join me and experience how I work." >}}
 
 ### Group Sound Bath
 
