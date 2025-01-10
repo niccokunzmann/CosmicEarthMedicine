@@ -57,4 +57,4 @@ A sound bath is deeply pleasurable for the senses and offers a welcome “time o
 
 In addition to sound, I love incorporating other sensory elements, such as incense and essential oils, to activate the olfactory senses. This multisensory approach helps deepen the experience and can even encourage memories and emotions to surface.
 
-See below my regular Sound dates and jeep an eye on my social media for any pop up events near you.
+See below my regular Sound dates and keep an eye on my social media for any pop up events near you.
