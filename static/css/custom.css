@@ -48,3 +48,35 @@ figure img {
 .owl-carousel .item {
   margin-right: 2em;
 }
+
+.home-intro-1 {
+  background-image: url('/img/photogrid.jpg');
+  background-size: cover;
+  background-position: 50% 40%;
+  min-height: 11em;
+  padding-top: 8em;
+}
+
+.misson-statement-box {
+  background-color: rgb(196, 196, 196);
+  padding: 2em;
+  max-width: 30em;
+  text-align: center;
+  margin: auto;
+  
+}
+
+.home-intro-1 .misson-statement-box {
+  margin-top: 10em;
+  margin-bottom: 0em;
+}
+
+.home-intro-2 .misson-statement-box {
+  padding-top: 0em;
+  margin-top: 0em;
+}
+
+.misson-statement-box h1 {
+  color: white;
+  margin-top: 0em;
+}
