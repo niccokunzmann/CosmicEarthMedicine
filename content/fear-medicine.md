@@ -1,5 +1,7 @@
 ---
 title: Fear Medicine
+whatWeDoHere: true
+linkTitle: Unravelling Fear
 ---
 
 ## Discover Your True Voice & Step Into Confidence
