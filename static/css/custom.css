@@ -143,3 +143,11 @@ figure img {
 .post .image img {
   border-radius: 0em;
 }
+
+#loveletter-signup {
+  text-align: center;
+}
+
+#loveletter-signup iframe {
+  margin: auto;
+}
