@@ -117,3 +117,20 @@ figure img {
   padding-top: 3em;
 }
 
+.intro-journal-prompt-button-section {
+  text-align: center;
+}
+
+.see-more .icon {
+  display: none;
+}
+
+
+.see-more .background-image-fixed-2 {
+  background-image: none;
+  background-color: var(--primary-accent);
+}
+
+.see-more .dark-mask {
+  display: none;
+}

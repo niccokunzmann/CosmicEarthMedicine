@@ -142,3 +142,10 @@ enableGitInfo = true
   [privacy.youtube]
     disable = true
 
+[params.see_more]
+    enable = true
+    icon = "far fa-file-alt"
+    title = ""
+    subtitle = "Find the latest Journal Prompts here"
+    link_url = "#"
+    link_text = "Journal Prompts"
