@@ -1,11 +1,23 @@
 import { TinaField } from 'tinacms'
-import { frontmatter } from './frontmatter'
+import frontmatter from './frontmatter'
 import { markdownContent } from "./markdown"
 
-const markdownFields : TinaField<false>[] = frontmatter.concat([
+const pageFields : TinaField<false>[] = [
+    frontmatter.title,
+    frontmatter.draft,
+    frontmatter.whatWeDoHere,
+    frontmatter.linkTitle,
     markdownContent
-])
+]
+
+const journalFields : TinaField<false>[] = [
+    frontmatter.title,
+    frontmatter.date,
+    markdownContent
+]
+
+
 
 export {
-    markdownFields
+    pageFields, journalFields
 }

@@ -8,25 +8,6 @@ const markdownContent: TinaField = {
     isBody: true,
     templates: [
         {
-            name: 'WarningCallout',
-            label: 'WarningCallout',
-            match: {
-                start: '{{',
-                end: '}}',
-            },
-            fields: [
-                {
-                    name: 'content',
-                    label: 'Content',
-                    type: 'string',
-                    required: true,
-                    ui: {
-                        component: 'textarea',
-                    },
-                },
-            ],
-        },
-        {
             name: 'figure',
             label: 'figure',
             match: {

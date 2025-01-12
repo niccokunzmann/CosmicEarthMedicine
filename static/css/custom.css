@@ -134,3 +134,12 @@ figure img {
 .see-more .dark-mask {
   display: none;
 }
+
+.post .image {
+  max-height: 30em;
+  
+}
+
+.post .image img {
+  border-radius: 0em;
+}

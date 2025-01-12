@@ -32,6 +32,7 @@ enableGitInfo = true
     enableRecaptchaInContactForm = true
     googleRecaptchaKey = "6LfpknMqAAAAAJ9zYYIttHIwGudXJcMgveyFbUnv"
 
+
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
@@ -147,5 +148,5 @@ enableGitInfo = true
     icon = "far fa-file-alt"
     title = ""
     subtitle = "Find the latest Journal Prompts here"
-    link_url = "#"
+    link_url = "/journal-prompts/"
     link_text = "Journal Prompts"

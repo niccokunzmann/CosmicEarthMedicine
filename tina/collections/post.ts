@@ -1,11 +1,15 @@
 import { Collection } from "tinacms";
-import { markdownFields } from './fields'
+import { pageFields, journalFields } from './fields'
 
-const post : Collection = {
-    name: "post",
-    label: "Posts",
-    path: "content/posts",
-    fields: markdownFields,
+const journalPrompts : Collection = {
+    name: "journalPrompt",
+    label: "Journal Prompts",
+    path: "content/journal-prompts",
+    match: { // see https://tina.io/docs/reference/collections#matchinclude
+      include: "*"
+    },
+    format: "md",
+    fields: journalFields,
   }
   
 const page : Collection = {
@@ -16,7 +20,7 @@ const page : Collection = {
       include: "*"
     },
     format: "md",
-    fields: markdownFields,
+    fields: pageFields,
   }
 
-export { post, page }
+export { journalPrompts as post, page }
