@@ -1,5 +1,7 @@
 ---
 title: Kambô Medicine
+whatWeDoHere: true
+linkTitle: Kambô
 ---
 
 ## What is Kambô?
@@ -8,7 +10,7 @@ Kambô is a sacred medicine ethically harvested from the secretion of the Bicolo
 
 ![](/img/signal-2025-01-10-151151_003.jpeg)
 
-#### **Why Use Kambô ?**
+### **Why Use Kambô ?**
 
 There are many reasons people choose to work with Kambô, both physically and energetically.
 
@@ -20,7 +22,7 @@ Often times we are so used to feeling groggy and achy, and perhaps low in energy
 
 Well, Kambô doesn't really give us super human powers- it can align us back into glorious homeostasis, which for many of us feels super human because of how used to feeling out of balance we have become.
 
-#### **How is Kambô Applied?**
+### **How is Kambô Applied?**
 
 To access the lymphatic system, small, superficial burns (called “gates”) are made on the surface of the skin using a tool that resembles an incense stick. The Kambô secretion is then applied directly to these gates.
 

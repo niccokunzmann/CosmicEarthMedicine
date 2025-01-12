@@ -1,13 +1,46 @@
+---
 <section>
     <div class="home-intro-1">
         <div class="misson-statement-box">
         </div>
     </div>
-    <div class="home-intro-2">
+    <div class="home-intro-2 intro-section">
         <div class="misson-statement-box">
             <h1>
                 Reconnect To Your Own Unique Human Nature
             </h1>
+        </div>
+    </div>
+    <div class="intro-section">
+        <div class="what-we-do ">
+            <h1>What We Do Here!</h1>
+            <p>
+
+                {{ range .Pages }}
+                    {{ if eq .Params.whatWeDoHere true }}
+                    <a class="page-link" href="{{ .Permalink }}">{{ default .Title .Params.linkTitle | humanize | title }}</a>
+                    {{ end }}
+                {{ end }}
+                <!--
+                <a class="page-link" href="/earth-medicine/">EARTH MEDICINE</a>
+                <a class="page-link" href="/kambo/">Kambô</a>
+                <a class="page-link" href="/sound-medicine/">Sound HEaling</a>
+                <a class="page-link" href="/fear-medicine/">Fear Unrevelling</a>
+                <a class="page-link" href="/doula/">Doula-ing</a>
+                <a class="page-link" href="/occupational-therapy/">Occupational Therapy</a> -->
+            </p>
+        </div>
+    </div>
+    <div id="content" class="intro-section-content">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-12">
+
+{{ .Content }}
+                </div>
+            </div>
+
         </div>
     </div>
 </section>

@@ -7,6 +7,8 @@ tags:
   - restoration
 title: Sound Medicine
 draft: false
+whatWeDoHere: true
+linkTitle: Sound Healing
 ---
 
 ### Tailored Sound Healing Experience

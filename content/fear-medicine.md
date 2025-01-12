@@ -10,7 +10,7 @@ Our fears can become so overwhelming that we often choose inaction—or act from
 
 The key is feeling, healing and releasing the power of old stories. When we fully express ourselves, we step into a place of freedom, peace, and authenticity. This doesn’t mean life won’t give us  challenges, but it does mean you will show up as your true, whole self—present, visible, and empowered.
 
-##### What Would It Be Like to Speak Your Truth Without Fear?
+### What Would It Be Like to Speak Your Truth Without Fear?
 
 How would it feel to express yourself confidently in front of anyone—whether family, co-workers, or a room full of people—without panic attacks, anxiety, or dissociation?
 
@@ -32,7 +32,7 @@ What you’ll experience in this 3-6 month **Fear Medicine** mentoring container
 
 This process isn’t about quick fixes. It’s about transformation, deep, steady, and powerful work. While it’s not always easy, with my support and gentle guidance, you’ll move faster and with more clarity on your journey toward authentic expression of your unique human blueprint.
 
-### Mentoring Program Options:
+### Mentoring Program Options
 
 * Bi-weekly: two 1.5 hour, 1-1 online sessions a month £300
 

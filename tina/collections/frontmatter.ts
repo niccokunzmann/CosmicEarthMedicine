@@ -8,6 +8,20 @@ const draft : TinaField = {
     required: false,
 }
 
+const whatWeDoHere : TinaField = {
+    type: "boolean",
+    name: "whatWeDoHere",
+    label: "List in 'What We Do Here'?",
+    required: false,
+}
+
+const linkTitle : TinaField = {
+    type: "string",
+    name: "linkTitle",
+    label: "Title for links (like 'Home' or 'About')",
+}
+
+
 const title : TinaField = {
     type: "string",
     name: "title",
@@ -17,5 +31,12 @@ const title : TinaField = {
 }
 
 
+const frontmatter : TinaField<false>[] = [
+    title,
+    draft,
+    whatWeDoHere,
+    linkTitle,
+]
 
-export { draft, title }
+
+export { frontmatter }
