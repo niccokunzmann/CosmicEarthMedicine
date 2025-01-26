@@ -10,11 +10,13 @@ A live on live circle each month where we share knowledge and experience and con
 
 1st Sunday of each month.
 
+<!-- more -->
+
+### 1st one is Sunday 2nd Feb at 1900-2030
+
 ### Topic: 🍄 Micro-Dosing 🍄
 
 ![](</img/social media micro dose.jpeg>)
-
-### 1st one is Sunday 2nd at 1900-2030
 
 Join me for 90 mins of micro dosing exploration. Bring your questions and curiosities.
 
