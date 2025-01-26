@@ -32,4 +32,4 @@ Disclaimer: This is an informational discussion only. Accessibility and knowledg
 
 £12.00 per person. Click on the image below to pay. Please leave your email address for the ticket/link. If you encounter any difficulties, please [contact me](/contact/).
 
-![paypal.me/emfoster83](/img/paypal/qr-paypal.me-emfoster83.png "Pay Yemaya via PayPal")
+[![paypal.me/emfoster83](/img/paypal/qr-paypal.me-emfoster83.png "Pay Yemaya via PayPal")](https://paypal.me/emfoster83)
