@@ -2,8 +2,6 @@
 title: Community Notice Board
 ---
 
-
-
 Monthly Online Live Discussion Circles.
 
 A live on live circle each month where we share knowledge and experience and connect with each other over juicy topics!
@@ -13,6 +11,8 @@ A live on live circle each month where we share knowledge and experience and con
 1st Sunday of each month.
 
 ### Topic: 🍄 Micro-Dosing 🍄
+
+![](</img/social media micro dose.jpeg>)
 
 ##### 1st one is Sunday 2nd at 1900-2030
 
@@ -33,5 +33,3 @@ Disclaimer: This is an informational discussion only. Accessibility and knowledg
 ### Payment
 
 £12.00 per person. Click on the image below to pay. Please leave your email address for the ticket/link. If you encounter any difficulties, please [contact me](/contact/).
-
-[![paypal.me/emfoster83](/img/paypal/qr-paypal.me-emfoster83.png "Pay Yemaya via PayPal")](https://paypal.me/emfoster83)
