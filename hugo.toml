@@ -67,6 +67,12 @@ enableGitInfo = true
     weight     = 4
 
 [[menu.main]]
+    name       = "Community Notice Board"
+    identifier = "section.ap-cnb"
+    url        = "/community-notice-board/"
+    weight     = 5
+
+[[menu.main]]
     name       = "Contact"
     identifier = "section.ap-contact"
     url        = "/contact/"
