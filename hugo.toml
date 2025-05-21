@@ -60,11 +60,6 @@ enableGitInfo = true
     url        = "/Fear-Medicine/"
     weight     = 3
 
-[[menu.main]]
-    name       = "Kambô"
-    identifier = "section.ap-kambo"
-    url        = "/Kambo/"
-    weight     = 4
 
 [[menu.main]]
     name       = "Community Notice Board"

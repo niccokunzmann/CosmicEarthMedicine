@@ -4,44 +4,79 @@ whatWeDoHere: true
 linkTitle: Unravelling Fear
 ---
 
-## Discover Your True Voice & Step Into Confidence
+# Reclaim Your Voice. Return to Your Power.
 
-Have you ever felt shut down from expressing your true self? Perhaps, like me, you’ve experienced rejection, abandonment, judgment, or punishment simply for speaking your truth or sharing what matters to you. Over time, we internalise these experiences, turning those judgments inward, and we start rejecting, abandoning, and punishing ourselves. This cycle can make it incredibly difficult to break free.
+A journey into embodied expression and inner freedom for women.
 
-Our fears can become so overwhelming that we often choose inaction—or act from fear—leading us to numb or avoid what we truly need. Eventually, our bodies signal that it’s time for a change. But how do we peel back the layers of fear and shame to step into vulnerability and confidently express ourselves?
+Have you ever felt silenced or shut down?
+Perhaps, like so many of us, you learned early on that it wasn't safe to speak your truth.
 
-The key is feeling, healing and releasing the power of old stories. When we fully express ourselves, we step into a place of freedom, peace, and authenticity. This doesn’t mean life won’t give us  challenges, but it does mean you will show up as your true, whole self—present, visible, and empowered.
+Maybe you were met with judgment, rejection, or even punishment simply for expressing what mattered to you.
 
-### What Would It Be Like to Speak Your Truth Without Fear?
+Over time, those outer experiences become inner patterns-
+and we begin to abandon our voice, our needs, our brilliance.
+We shrink ourselves to stay safe, to belong, to survive.
 
-How would it feel to express yourself confidently in front of anyone—whether family, co-workers, or a room full of people—without panic attacks, anxiety, or dissociation?
+But that quiet ache--the one that stirs in your chest, in your throat, in your bones-
+it's your voice calling you home.
 
-I’ve been there. In the past, I couldn’t talk to more than one person at a time without disconnecting from my body. At university, I would often skip presentations or even run off campus because the thought of speaking in public was too overwhelming. It felt isolating, and I tried many painful strategies to cope.
+## This Is the Work
 
-But after a long journey of healing and growth, I’ve finally unlocked the flow of stepping up and sharing my voice. Now, I want to help you do the same.
+This offering is for women ready to remember who they are
+and reclaim the power of their full, authentic voice.
+Not for performance. Not for perfection.
+But for truth. For wholeness. For liberation.
 
-What you’ll experience in this 3-6 month **Fear Medicine** mentoring container:
+## What would it feel like…
 
-* Dive into deep somatic enquiry
-* Reflect and release limiting stories
-* Explore self-expression through creative play
-* Experience elemental, deep listening
-* Tune into your soul’s voice
-* Be gently challenged and supported
-* Build the confidence to speak your truth
+…to speak with ease and presence?
+To share your truth without panic or dissociation-
+not just in safe spaces, but with loved ones, colleagues, even a room full of strangers?
 
-**Are You Ready to Step Into the Next Version of Yourself?**
+I know the ache of silence.  
+I've run from classrooms.  
+Skipped presentations.  
+Hid behind a mask of strength while fear ruled my voice.  
+I've lived the exhaustion of not being able to speak.  
+And I've walked the long road home to my body, to my truth.  
+Now I want to walk beside you as you do the same.  
 
-This process isn’t about quick fixes. It’s about transformation, deep, steady, and powerful work. While it’s not always easy, with my support and gentle guidance, you’ll move faster and with more clarity on your journey toward authentic expression of your unique human blueprint.
+## Fear Medicine: A 6 Month Online Mentoring Container
 
-### Mentoring Program Options
+A sacred space for women ready to reclaim their voice.
 
-* Bi-weekly: two 1.5 hour, 1-1 online sessions a month £300
+In this intimate mentoring journey, we'll explore voice and visibility through deep somatic and soul-led work. This is a slow, rooted transformation-an embodied returning to the truth of who you are.
+Together, we will:
 
-<!---->
+- Drop into your body through deep somatic enquiry
+- Gently unravel inherited silence and limiting beliefs
+- Explore self-expression through creative play and sound
+- Listen deeply with the whole body; attuning to the elements and intuition
+- Meet your soul's voice with curiosity and reverence
+- Be lovingly witnessed and gently challenged
+- Build real, grounded confidence to speak your truth, in your way, in your time.
+- This isn't about becoming someone else.
+- It's about becoming fully, powerfully YOU!
 
-* Weekly : four 1.5 hour, 1-1 online sessions a month.  £600
+## This is for you if…
 
-**Next Steps:**
+- You've struggled with anxiety, periodic mystery stress symptoms, dissociation, or fear around speaking up
+- You long to express yourself more fully-in relationships, work, or creative life
+- You're seeking support that's rooted in the body, not just the mind
+- You're ready for a steady, soulful shift-not a surface-level fix
+- You want to feel connected, visible, and truly heard.
 
-Book a discovery call. I can’t wait to hear from you!
+## Ready to Begin?
+
+Let's Talk.
+
+This is intimate, transformational work.
+The first step is a free, 30-minute discovery call where we can connect, feel into your intentions, and see if this path is right for you.
+
+## [Book Your Discovery Call Here](/contact/)
+
+Your voice matters.
+Let's walk this path together.
+
+[Contact me](/contact/)
+

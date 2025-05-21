@@ -11,52 +11,115 @@ whatWeDoHere: true
 linkTitle: Sound Healing
 ---
 
-### Tailored Sound Healing Experience
+## Whispers of sound
 
-Sound has a profound ability to touch us deeply, unearthing buried stories, ancestral wounds, and unresolved grief. In our 1:1 sound healing sessions, I create a safe, trauma-informed space where these tender emotions and memories can surface, allowing the healing power of sound to move and release stagnant energy.
+Wispers of sound is a sound healing ceremony made just for you: 1:1 Sound Healing Sessions.
+A Return to Resonance~
+Journey Through Sound, Memory & Body
 
-Each session is a bespoke experience, tailored to your unique needs. Together, we’ll explore which sound tools resonate most with you and what areas you wish to focus on. Committing to a series of sessions allows us to work with a variety of sound tools, giving you the opportunity to experience the distinct ways each one interacts with your body, mind, and spirit. Depending on the session, you may receive a sonic massage, where sound tools are applied directly to your body, or you may experience sound resonating through your auric field, vibrating and shifting your energy from the outside in. Both methods are deeply effective in facilitating healing and transformation.
+Sound is an ancient language of remembering.
+It speaks to what lives beneath words -
+touching the places where emotion, energy, and memory gather in silence.
+Sound has the power to unearth what's been buried:
+ancestral grief, inherited tension, the stories held deep in the marrow.
+In these one-to-one sessions, I offer a grounded, trauma-informed space where your body can safely open to the medicine of sound - gently, powerfully, and on your own terms.
 
-### Why Choose a 1:1 Sound Healing Session?
+### Rooted & Intuitive Support
 
-Sound healing can support your journey in many ways, including:
+Each session is a bespoke experience, attuned to the rhythm of your body and the needs of your spirit.
+We begin by listening - to you, your energy, your intentions.
+Together, we'll explore which sound tools feel most resonant - from ancient tones to elemental frequencies.
+Some sessions may include a sonic massage, with instruments applied directly to your body - gently vibrating the tissues, shifting tension, moving energy from the inside out.
+Other times, we'll work within the auric field, using sound to touch what is felt but unseen - subtle, yet deeply transformative.
 
-* Healing from physical injury
-* Improving circulation
-* Supporting mental and emotional health
-* Reducing anxiety and calming the nervous system
-* Promoting deeper, more restful sleep
-* Enhancing focus and clarity
+These sessions honour both vour human story and your ancestral roots -
+calling in sound as a bridge between your inner and outer worlds.
+
+### Sound Healing Supports You With
+
+* Healing from physical injury or illness
+* Calming the nervous system & reducing anxiety
+* Improving circulation & supporting deep rest
+* Releasing trauma held in the body
+* Surfacing & softening repressed memories
+* Enhancing clarity, focus, and emotional balance
 * Deepening connection to your true self
-* Releasing or shifting trauma blocks
-* Complementing allopathic treatments for chronic health conditions
-* Surfacing repressed memories
-* Offering relaxation and self-care to balance the demands of daily life
+* Complementing traditional or allopathic treatments
+* Creating space for rest, integration, and care
 
-Upon booking, please let me know if you are pregnant, have a pacemaker or have any metal in your body.
+### Session Pricing
 
-### 1:1 Session Pricing
+Standard (60 mins): £70  
+Concession (60 mins): £50  
+Gifted Rate (60 mins): £100  
 
-* Time: 60 min
-* £70 Standard
-* £50 Concession
-* £100 Gift
+Please choose the rate that reflects your current capacity and honours the energy exchange.
 
-A bundle of six 1:1 sessions is £380
-To be used within 6 months.
+Bundle Option: Six sessions for £380 (to be used within 6 months)
 
-## Group Sound Baths/Sound Journeys
+### Important Note
 
+Please inform me before booking if you are pregnant, have a pacemaker, or have any metal implants. This ensures your session is tailored with care and safety in mind.
+
+### Ready to Begin?
+
+If you feel the call to explore sound as a path to healing, remembering, and reconnection -
+I would be honoured to hold space for you.
+Email me to book your session or ask any questions: [contact me](/contact/).
+
+Let's listen together -
+to the sound beneath the noise, to the wisdom within your body, to the song that's always been yours.
+
+## Group Sound Journeys
+
+<!--
 {{< figure src="/img/yemaya-sound-bath.jpg" title="Participate in Regular Sound Journeys" caption="My regular sound baths in Carmarthenshire and Cardiff are a perfect opportunity to join me and experience how I work." >}}
+-->
 
-### Group Sound Bath
+Sacred Sound in Circle~A Multisensory Ceremony of Remembering
+Step out of the noise of daily life and into a field of vibration, rest, and resonance.
 
-Join a Regular Sound  Bath / Journey
+My regular sound journeys in Carmarthenshire and Cardiff are an invitation to drop into deep presence,
+held gently in community and ceremony.
+These are more than sound baths - they are gatherings for the soul.
 
-My regular sound baths in Carmarthenshire and Cardiff offer a wonderful opportunity to experience the healing power of Sacred Sound. These sessions are a perfect introduction to Sound Medicine, allowing you to immerse yourself in the transformative energy of sound within a group setting.
+Rooted in ancient remembering, guided by intuition, and shaped by the energy of the circle, each session is a living, breathing soundscape: no two are ever the same.
 
-A sound bath is deeply pleasurable for the senses and offers a welcome “time out” from the busyness of life. While the experience is usually soothing, it can also guide you into deeper states of relaxation and healing. No two sound baths are the same; I flow with the energy of the group and the space to create a restorative sound journey tailored to those present.
+### What to Expect
 
-In addition to sound, I love incorporating other sensory elements, such as incense and essential oils, to activate the olfactory senses. This multisensory approach helps deepen the experience and can even encourage memories and emotions to surface.
+As we settle into the space, the senses begin to soften.
+You may be welcomed with sacred smoke - Mapacho, Paulo Santo, Sage -
+or anointing oils that help clear the energetic field and open the heart.
+Then, with breath and stillness, we begin.
+You'll be immersed in layers of sacred sound -
+voice, bowls, drums, gongs, rattles
+-weaving through the space and touching the subtle places within.
+The sounds may soothe or stir, invite rest or evoke release.
+Some journeys are gentle, others deeply moving - always what is needed.
 
-See below my regular Sound dates and keep an eye on my social media for any pop up events near you.
+This is sound as medicine, sound as remembrance.
+A chance to come home to yourself, to reconnect with your body, to feel yourself held in the resonance of shared healing.
+
+### Who It's For
+
+These sound journeys are open to all - no experience needed.
+Whether you're curious, called, or simply seeking rest, you're welcome here.  
+Come as you are.  
+Lie down.  
+Let the sound hold what words cannot.  
+
+### Where to Find Me
+
+Carmarthenshire & Cardiff (ongoing circles)
+See below for current dates or follow along on Instagram / Facebook for pop-up sessions, seasonal gatherings, and special collaborations.
+
+### Join the Circle
+
+To book your place or enquire about upcoming events:
+[contact me](/contact/).
+Or connect via [Instagram]
+
+Come with an open heart, and leave with a lighter soul.
+The sound is waiting.
+
+[Instagram]: https://www.instagram.com/cosmic_earth_medicine_/
