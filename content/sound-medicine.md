@@ -72,12 +72,7 @@ to the sound beneath the noise, to the wisdom within your body, to the song that
 
 ## Group Sound Journeys
 
-<!--
-{{< figure src="/img/yemaya-sound-bath.jpg" title="Participate in Regular Sound Journeys" caption="My regular sound baths in Carmarthenshire and Cardiff are a perfect opportunity to join me and experience how I work." >}}
--->
-
-Sacred Sound in Circle~A Multisensory Ceremony of Remembering
-Step out of the noise of daily life and into a field of vibration, rest, and resonance.
+{{< figure src="/img/yemaya-sound-bath.jpg" title="Sacred Sound in Circle" caption="A Multisensory Ceremony of Remembering. Step out of the noise of daily life and into a field of vibration, rest, and resonance." >}}
 
 My regular sound journeys in Carmarthenshire and Cardiff are an invitation to drop into deep presence,
 held gently in community and ceremony.
