@@ -71,9 +71,24 @@ figure img {
 .home-intro-1 {
   background-image: url('/img/misson-statement-box.jpg');
   background-size: cover;
-  background-position: 50% 48%;
+  background-position: 50% 50%;
   min-height: 11em;
   padding-top: 8em;
+  position: relative;
+}
+
+.misson-statement-box-2 {
+  background-image: url('/img/marosa-leafs.png');
+  background-size: cover;
+  background-position: 50% 50%;
+  top: 0em; 
+  height: calc(100%);
+  z-index: 10;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .misson-statement-box {
