@@ -55,17 +55,29 @@ enableGitInfo = true
     weight     = 2
 
 [[menu.main]]
+    name       = "Birth Doula"
+    identifier = "section.ap-birth-doula"
+    url        = "/birth-doula/"
+    weight     = 3
+
+[[menu.main]]
+    name       = "Death Doula"
+    identifier = "section.ap-death-doula"
+    url        = "/death-doula/"
+    weight     = 4
+
+[[menu.main]]
     name       = "Fear Medicine"
     identifier = "section.ap-fear-medicine"
     url        = "/Fear-Medicine/"
-    weight     = 3
+    weight     = 5
 
 
 [[menu.main]]
     name       = "Community Notice Board"
     identifier = "section.ap-cnb"
     url        = "/community-notice-board/"
-    weight     = 5
+    weight     = 6
 
 [[menu.main]]
     name       = "Contact"
