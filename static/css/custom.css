@@ -121,16 +121,10 @@ figure img {
   text-transform: uppercase;
   font-size: large;
   display: inline-block;
+  padding-left: 0.4em;
+  padding-right: 0.4em;
 }
 
-
-.what-we-do .page-link::after {
-  content: " | ";
-}
-
-.what-we-do .page-link::before {
-  content: " | ";
-}
 
 .intro-section-content {
   padding-top: 3em;
