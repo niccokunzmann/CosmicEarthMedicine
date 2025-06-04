@@ -69,26 +69,38 @@ figure img {
 }
 
 .home-intro-1 {
-  background-image: url('/img/misson-statement-box.jpg');
+  /* background-image: url('/img/misson-statement-box.jpg');
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 50% 50%; */
   min-height: 11em;
   padding-top: 8em;
   position: relative;
 }
 
-.misson-statement-box-2 {
-  background-image: url('/img/marosa-leafs.png');
+.misson-statement-image {
+  z-index: -2;
+}
+
+.misson-statement-image, .misson-statement-image-overlay {
+  /* background-image: url('/img/marosa-leafs.png');
   background-size: cover;
-  background-position: 50% 50%;
-  top: 0em; 
-  height: calc(100%);
-  z-index: 10;
+  background-position: 50% 50%; */
+  object-fit: cover;
+  bottom: -2em;
+  left: 0em;
+  right:0em;
+  min-width: 100%;
+  min-height: 100%;
   position: absolute;
-  width: 100%;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 0em;
+  pointer-events: none;
+}
+
+.misson-statement-image-overlay {
+  z-index: 0;
 }
 
 .misson-statement-box {
