@@ -16,8 +16,12 @@
   --pagination-bg: rgb(166, 123, 91);
   --link-hover-bg: rgb(236, 177, 118);
   --navbar-focus: rgb(236, 177, 118);
+  --bright-text-on-dark: rgb(255, 237, 219);
 }
 
+#top, #copyright {
+  background-color: var(--navbar-border-top);
+}
 
 img {
   border-radius: 1em;
@@ -67,7 +71,7 @@ figure img {
 .home-intro-1 {
   background-image: url('/img/misson-statement-box.jpg');
   background-size: cover;
-  background-position: 50% 0%;
+  background-position: 50% 48%;
   min-height: 11em;
   padding-top: 8em;
 }
@@ -96,8 +100,8 @@ figure img {
   border-bottom: solid 1px var(--primary-accent);
 }
 
-.misson-statement-box h1 {
-  color: white;
+.misson-statement-box h1, .misson-statement-box h2 {
+  color: var(--bright-text-on-dark);
   margin-top: 0em;
 }
 

@@ -9,7 +9,7 @@ linkTitle: Plant Medicine
 My work is rooted in deep respect and connection to the Shipibo-Conibo lineage of the Peruvian
 Amazon - a people who have carried and protected the sacred plant medicine traditions for countless generations. 
 
-![](/img/marosa-1.jpeg)
+![](/img/marosa-with-insect.jpg)
 
 Their relationship with the natural world is one of profound listening, discipline, and communion, and although I have been a student of plant and fungi medicines for over a decade, it is through this tradition that I have been most strongly guided and called on my own path of healing and service.
 
@@ -36,4 +36,3 @@ In addition to my traditional training in the jungle, I am also studying psyched
 You don’t need to drink Ayahuasca to benefit from my plant dieta in our sessions together! 
 However you choose to work with me, Marosa will help me to understand how I can best support you.
 
-![](/img/marosa-2.jpeg)

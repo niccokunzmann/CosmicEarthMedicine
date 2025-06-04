@@ -49,7 +49,7 @@ enableGitInfo = true
 #    post       = 1
 
 [[menu.main]]
-    name       = "Sound"
+    name       = "Ritual Sound"
     identifier = "section.ap-sound-medicine"
     url        = "/sound-medicine/"
     weight     = 2
@@ -74,10 +74,16 @@ enableGitInfo = true
 
 
 [[menu.main]]
+    name       = "Plant Medicine"
+    identifier = "section.ap-plant-medicine"
+    url        = "/plant-medicine/"
+    weight     = 6
+
+[[menu.main]]
     name       = "Community Notice Board"
     identifier = "section.ap-cnb"
     url        = "/community-notice-board/"
-    weight     = 6
+    weight     = 7
 
 [[menu.main]]
     name       = "Contact"
