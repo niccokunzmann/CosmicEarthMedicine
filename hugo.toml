@@ -13,7 +13,7 @@ enableGitInfo = true
 ## See https://github.com/devcows/hugo-universal-theme/blob/master/exampleSite/config.toml
 
 [params]
-    style = 'pink'
+    style = 'marsala'
 
     ## Logo, see https://github.com/devcows/hugo-universal-theme?tab=readme-ov-file#logo
     disabled_logo = true

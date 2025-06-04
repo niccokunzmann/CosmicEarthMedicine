@@ -4,6 +4,21 @@
  * SPDX-License-Identifier: LicenseRef-mine
  */
 
+:root {
+  /* Replace color scheme with this one: 
+   * https://colorhunt.co/palette/6f4e37a67b5becb176fed8b1
+   */
+  --primary-accent: rgb(111, 78, 55);
+  --navbar-border-top: rgb(91, 58, 35);
+  --button-border: rgb(236, 177, 118);
+  --link-focus: rgb(166, 123, 91);
+  --form-shadow: rgb(166, 123, 91);
+  --pagination-bg: rgb(166, 123, 91);
+  --link-hover-bg: rgb(236, 177, 118);
+  --navbar-focus: rgb(236, 177, 118);
+}
+
+
 img {
   border-radius: 1em;
   max-width: 300px;
