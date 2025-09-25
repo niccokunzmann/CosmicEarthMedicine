@@ -204,3 +204,12 @@ figure img {
   margin-bottom: 3em;
   margin-top: 3em;
 }
+
+.youtube {
+}
+
+.youtube iframe {
+  width: 100%;
+  border:0;
+  aspect-ratio: 1;
+}

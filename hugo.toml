@@ -160,7 +160,8 @@ enableGitInfo = true
   [privacy.vimeo]
     disable = true
   [privacy.youtube]
-    disable = true
+    disable = false
+    privacyEnhanced = true
 
 [params.see_more]
     enable = true
