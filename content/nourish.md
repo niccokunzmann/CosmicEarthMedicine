@@ -4,6 +4,8 @@ draft: false
 whatWeDoHere: false
 ---
 
+{{< figure src="/img/nourish.jpg" >}}
+
 My Love.  
 So many healers and medicine woman experience a block in their self-expression.
 
@@ -18,30 +20,20 @@ With love,
 
 Yemaya
 
-{{< youtube class="youtube hidden" id=DWcc5Dy6wLo loading=lazy title="Healer / Medicine Woman Activation 🌿🍄" >}}
+{{< youtube class="youtube subscription 3e00b55b-90aa-4353-8907-aeb9ee3c7b07" id=DWcc5Dy6wLo loading=lazy title="Healer / Medicine Woman Activation 🌿🍄" >}}
 
 {{< rawhtml >}}
 <form method="post" action="https://listmonk.hosted.quelltext.eu/subscription/form" class="listmonk-form" id="newsletter-form">
   <div>
-    <h3>Subscribe</h3>
+    <h3>Subscribe to receive Love Letters from Yemaya</h3>
     <input type="hidden" name="nonce" />
 
     <p><input type="email" name="email" required placeholder="E-mail" id="newsletter-email"/></p>
-    <p><input type="text" name="name" placeholder="Name (optional)" /></p>
+    <p><input type="text" name="name" placeholder="Name" /></p>
 
     <input id="3e00b" type="checkbox" name="l" checked value="3e00b55b-90aa-4353-8907-aeb9ee3c7b07" class="hidden"/>
     <label for="3e00b" class="hidden">Cosmic Earth Medicine News</label>
-    <p>
-      <span>Subscribe to see the Video! Thanks!</span>
-    </p>
-
     <input type="submit" value="Subscribe " class="btn btn-template-main btn-lg" onclick="submitNewsletter();"/>
   </div>
 </form>
-<script type="text/javascript">
-if(document.location.search == "") {
-    document.location.search = "?subscribe=true";
-}
-window.addEventListener("load", showVideoIfSubscribed);
-</script>
 {{< /rawhtml >}}

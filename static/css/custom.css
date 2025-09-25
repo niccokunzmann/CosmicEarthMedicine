@@ -203,6 +203,7 @@ figure img {
   width: 30em;
   margin-bottom: 3em;
   margin-top: 3em;
+  text-align:center;
 }
 
 .youtube {
@@ -213,3 +214,5 @@ figure img {
   border:0;
   aspect-ratio: 1;
 }
+
+.subscription {}
