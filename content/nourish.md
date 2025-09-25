@@ -14,7 +14,8 @@ Now is the time to let the stories go and to do the damn thing.
 The Plants, Trees and Fungi have got our backs 🌿💗
 
 Here is an activation for you. I have been working with it each day for a while too ☺️
-Wear headphones and get yourself so comfortable
+Please pop your email address in below if you are not already subscribed to our love letters.
+Wear headphones and get yourself so comfortable.
 
 With love,
 
