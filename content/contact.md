@@ -9,7 +9,6 @@ id: 'contact'
 
 ![Yemaya Rodriguez](/img/contact.jpg)
 
-There are several ways to contact me. You can find them all in the top right corner of the page.
-My favourite contact method is **email**. You can write to me directly or use the contact form below.
-
-Nice to hear from you!
+There are several ways to contact me; you can message me on Facebook and Instagram, and email is best. You can use the form below.  
+With love,  
+Yemaya.
