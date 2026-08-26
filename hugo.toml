@@ -66,12 +66,6 @@ enableGitInfo = true
     url        = "/death-doula/"
     weight     = 4
 
-[[menu.main]]
-    name       = "Fear Medicine"
-    identifier = "section.ap-fear-medicine"
-    url        = "/Fear-Medicine/"
-    weight     = 5
-
 
 [[menu.main]]
     name       = "Plant Medicine"
