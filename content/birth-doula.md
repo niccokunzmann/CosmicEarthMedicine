@@ -1,7 +1,6 @@
 ---
 title: Birth Doula
-whatWeDoHere: true
-linkTitle: Birth
+whatWeDoHere: 5
 ---
 
 ## Ritual Doula: Full Journey

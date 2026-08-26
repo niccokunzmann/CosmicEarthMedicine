@@ -1,7 +1,6 @@
 ---
 title: N O U R I S H
 draft: false
-whatWeDoHere: false
 ---
 
 {{< figure src="/img/nourish.jpg" >}}

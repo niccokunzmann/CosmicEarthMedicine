@@ -9,9 +9,9 @@ const draft: TinaField = {
 }
 
 const whatWeDoHere: TinaField = {
-    type: "boolean",
+    type: "number",
     name: "whatWeDoHere",
-    label: "List in 'What We Do Here'?",
+    label: "Order in 'What We Do Here' (leave blank to hide)",
     required: false,
 }
 

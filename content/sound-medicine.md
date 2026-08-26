@@ -7,8 +7,8 @@ tags:
   - restoration
 title: Sound Medicine
 draft: false
-whatWeDoHere: true
-linkTitle: Sound Healing
+whatWeDoHere: 1
+linkTitle: Sound Medicine Healing
 ---
 
 ## Whispers of sound

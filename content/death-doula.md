@@ -1,7 +1,7 @@
 ---
 title: Death Doula
-whatWeDoHere: true
-linkTitle: Death
+whatWeDoHere: 4
+linkTitle: Death Doula and Grief Tending
 ---
 
 ## The Role of a Death Doula

@@ -18,13 +18,11 @@
     </div>
     <div class="intro-section">
         <div class="what-we-do ">
-            <h1>Connect to …</h1>
+            <h1>Ways to work with me:</h1>
             <p>
 
-                {{ range .Pages }}
-                    {{ if eq .Params.whatWeDoHere true }}
+                {{ range sort (where .Pages "Params.whatWeDoHere" "!=" nil) "Params.whatWeDoHere" "asc" }}
                     <a class="page-link" href="{{ .Permalink }}">{{ default .Title .Params.linkTitle | humanize | title }}</a>
-                    {{ end }}
                 {{ end }}
                 <!--
                 <a class="page-link" href="/earth-medicine/">EARTH MEDICINE</a>
@@ -49,7 +47,7 @@
                         </h4>
                         <p>
                             A bit about me.
-                            I work and apprentice within the Shipibo lineage of healing. I am also studying Psychedelics, Mind and Culture at the University of Exeter. With my plant dieta’s and background in Nursing and Occupational Therapy, I support my clients to heal and nourish their body mind and soul in the way of shamanic practice and a deep listening to the seen and unseen. The cosmology I have faith in, is nature. Of nature guiding us to return and remember our true nature.
+                            I work and apprentice within the Shipibo lineage of healing. I am also studying Psychedelics, Mind and Culture at the University of Exeter. With my <a href="/plant-medicine/">plant dietas</a> and background in Nursing and Occupational Therapy, I support my clients to heal and nourish their body mind and soul in the way of shamanic practice and a deep listening to the seen and unseen. The cosmology I have faith in, is nature. Of nature guiding us to return and remember our true nature.
                             I believe that the body holds all the stories and we can untangle and integrate these stories, and the patterns and habits which form from them, healing and preventing sickness in the mind and body.                        </p>
                         <p>
                         </p>
