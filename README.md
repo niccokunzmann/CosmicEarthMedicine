@@ -5,14 +5,7 @@ A site for Yemaya Rodriguez
 ## Build
 
 1. Install Hugo
-2. Install `npm`
-3. Install packages
-
-    ```shell
-    npm install
-    ```
-
-4. clone repo
+2. clone repo
 
     ```shell
     git clone
@@ -21,14 +14,8 @@ A site for Yemaya Rodriguez
     git submodule update
     ```
 
-5. Run the server
+3. Run the server
 
     ```shell
     hugo server -D -N --noBuildLock --bind 0.0.0.0 --noHTTPCache
-    ```
-
-    Or
-
-    ```shell
-    yarn dev
     ```
