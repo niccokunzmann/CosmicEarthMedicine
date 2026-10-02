@@ -52,44 +52,56 @@ enableGitInfo = true
     name       = "Ritual Sound"
     identifier = "section.ap-sound-medicine"
     url        = "/sound-medicine/"
-    weight     = 2
+    weight     = 3
+
+[[menu.main]]
+    name       = "Shamanic Energy Work"
+    identifier = "section.ap-energy-work"
+    url        = "/shamanic-energy-work/"
+    weight     = 5
 
 [[menu.main]]
     name       = "Birth Doula"
     identifier = "section.ap-birth-doula"
     url        = "/birth-doula/"
-    weight     = 3
+    weight     = 7
 
 [[menu.main]]
     name       = "Death Doula"
     identifier = "section.ap-death-doula"
     url        = "/death-doula/"
-    weight     = 4
+    weight     = 9
 
 [[menu.main]]
     name       = "Celebrancy"
     identifier = "section.ap-celebrancy"
     url        = "/celebrancy/"
-    weight     = 5
+    weight     = 11
 
 
 [[menu.main]]
     name       = "Plant Medicine"
     identifier = "section.ap-plant-medicine"
     url        = "/plant-medicine/"
-    weight     = 6
+    weight     = 13
 
 [[menu.main]]
-    name       = "Community Notice Board"
-    identifier = "section.ap-cnb"
-    url        = "/community-notice-board/"
-    weight     = 7
+    name       = "Kambô Ceremony"
+    identifier = "section.ap-kambo-ceremony"
+    url        = "/kambo-ceremony/"
+    weight     = 15
+
+#[[menu.main]]
+#    name       = "Community Notice Board"
+#    identifier = "section.ap-cnb"
+#    url        = "/community-notice-board/"
+#    weight     = 17
 
 [[menu.main]]
     name       = "Contact"
     identifier = "section.ap-contact"
     url        = "/contact/"
-    weight     = 10
+    weight     = 19
 
 
 [params.topbar]

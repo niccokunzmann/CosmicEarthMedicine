@@ -234,3 +234,17 @@ img.center-image {
 #copyright a {
   color: var(--bright-text-on-dark);
 }
+
+/* two images side by side, see layouts/shortcodes/two-images.html */
+.two-images {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  margin: 1em 0;
+}
+.two-images img {
+  flex: 1 1 0;
+  min-width: 0;
+  max-width: 50%;
+  height: auto;
+}

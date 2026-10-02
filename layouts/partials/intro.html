@@ -21,8 +21,17 @@
             <h1>Ways to work with me:</h1>
             <p>
 
-                {{ range sort (where .Pages "Params.whatWeDoHere" "!=" nil) "Params.whatWeDoHere" "asc" }}
-                    <a class="page-link" href="{{ .Permalink }}">{{ default .Title .Params.linkTitle | humanize | title }}</a>
+                {{ range sort (where (where .Pages "Params.whatWeDoHere" "!=" nil) "Draft" false) "Params.whatWeDoHere" "asc" }}
+                    {{/* Hugo turns a list in the reserved linkTitle field into "", so read the raw front matter */}}
+                    {{ $page := . }}
+                    {{ $links := (index (split (readFile .File.Path) "---") 1 | transform.Unmarshal).linkTitle }}
+                    {{ if reflect.IsSlice $links }}
+                        {{ range $links }}
+                            <a class="page-link" href="{{ $page.Permalink }}{{ with .anchor }}#{{ . }}{{ end }}">{{ .name | humanize | title }}</a>
+                        {{ end }}
+                    {{ else }}
+                        <a class="page-link" href="{{ .Permalink }}">{{ default .Title .Params.linkTitle | humanize | title }}</a>
+                    {{ end }}
                 {{ end }}
                 <!--
                 <a class="page-link" href="/earth-medicine/">EARTH MEDICINE</a>
