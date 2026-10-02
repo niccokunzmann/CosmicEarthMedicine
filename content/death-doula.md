@@ -4,35 +4,21 @@ whatWeDoHere: 4
 linkTitle: Death Doula and Grief Tending
 ---
 
-## The Role of a Death Doula
+## Death Doula & Palliative Care Occupational Therapist
 
-A death doula does not arrive to take over. We are not here to fix, rescue, or replace.
+As we all know, death is the one certain thing that will happen to each of us. It is arguably our greatest transition and initiation in life. Death itself usually isn’t a medical emergency yet people can and of course do die in medical emergencies.
 
-We come to tend the space-to hold what is heavy, to soften what is sharp, to make room for love to lead.
-We walk beside the dying one and their kin, offering calm presence, gentle guidance, and sacred structure
-so that family can simply be-as raw, real, tender, or still as they need to be.
+As a death or end of life doula I simply walk beside you on your journey to death. I witness you and support and empower you to explore dying and death and your feelings or beliefs.
+Many people who have terminal diagnoses unfortunately, are blocked from expressing their feelings about their own death with those closest to them as they worry about upsetting their loved ones, or still, even in this time of their lives, have to be the strong holding one. Some people have really strong death anxiety and wish for space to explore that.
+It can be immensely helpful to have someone outside of the family and friend circle to spend time with and bounce musings and feelings around with.
 
-In the sacred threshold of dying, we are the lantern-bearers, the ones who remember that this, too, is a ceremony.
+I offer practical support; helping you make decisions in how you wish to die, where and making plans for your body after death care, funeral or life celebration.
 
-> You are not alone.  
-> You are not expected to know how.  
-> You are held, just as you are.  
+As an Occupational Therapist I can advise on mobility challenges and recommend equipment that may support you to be as independent as long as possible, and as comfortable as possible beyond that.
 
-> Ritual Death Support with Yemaya  
-> Death Doula, Ceremonial Guide,  
-> Tender Witness
+Sometimes its the dying person who contacts me for themselves, either right after a terminal diagnosis or further along in their journey. Sometimes its the spouse of family member of the dying person, who wishes to be supported in the organisation of life with a dying person- particularly if the dying person remains at home, and to support the family in their grief.
 
-Death is not the end.
-It is a return. A passage. A sacred crossing.
-
-As a death doula, I walk beside those nearing the death threshold, offering presence, ritual, love and remembrance to make the leaving as sacred as the arriving.
-
-Just as we honor the beginning of life with ceremony, touch, and prayer
--so too should we honor the end.
-
-This is soul work.
-This is death as initiation.
-This is care for the one departing, and for those who remain here.
+Having a death doula in the circle of support is particularly helpful in families where there is conflict and division. Having a neutral person advocate for the wishes of the dying person in terms of their energy levels for visits and what should or shouldn’t happen in their space can be extremely important for the peace of the person; whether they are months, weeks away from death or in their last peaceful days of quiet contemplation.
 
 ## My Offer To You
 
@@ -42,11 +28,28 @@ Whether you or your loved one is actively dying, navigating a terminal diagnosis
 
 Together, we create a soft, sacred container for death. Not clinical, not rushed, not erased.
 
-## End-of-Life Doula Support May Include
+
+### Some of the Things in List Form that I offer as a Death Doula for the Dying Person
+
+- In home visits or walks, depending on mobility, for witnessing, contemplation
+- Sound healing and energy healing for relaxation and pain reduction
+- Massage for body reconnection and pain reduction
+- Shamanic holding for death anxiety
+- End of life planning
+- Advocacy with medical professionals
+- Equipment advise
+- House clearing, ordering, or supporting a move downstairs
+- Signposting to holistic legal professionals for any legal paperwork /will enquiries
+- Vigil sitting - holding space in the days or hours before death
+
+
+## End-of-Life Doula Support for Family Members May Include
 
 - Vigil sitting - holding space in the days or hours before death
+- Family grief tending
+- After death natural body care
 - Ritual and ceremony creation - ancestral, elemental, or spiritual (tailored to beliefs)
-- Emotional + energetic support for the dying and their loved ones
+- Emotional + energetic support for the dying and the loved ones
 - Legacy projects - storytelling, recordings, memory bundles, altar work
 - Advance care planning and death mapping
 - After-death guidance, for body care, home vigils, funerals, and home altars
@@ -69,51 +72,13 @@ This Is For You If:
 > You don't need to have the right words.  
 > You just need to want something deeper, slower, and more honoring.
 
-## The Sacred Exit Package 
-
-£900 - £1,300 (Sliding scale available)
-
-A full-spectrum journey of death preparation and aftercare.
-Each journey is tailored to your needs. This may include:
-
-- Initial consultation (free, 30 mins, in person or virtual)
-- 4 in-person visits (2-3 hours each) to prepare and walk together
-- Ongoing WhatsApp/text check-ins
-- Ceremonial death plan + family guidance
-- Soul and body preparation practices
-- Rituals for dying: home blessing, ancestor calling, or soul release
-- Practical planning, home sorting
-- Grief tending and remembrance altar guidance
-- 1 after-death support session for loved ones and care givers
-
-Payment plans are available. 
-Sliding scale: Choose what feels right within the range based on your resources.
-If you're facing financial hardship, please reach out. Community care spaces are available.
-
-## One-Off Sessions (In-Person or Online)
-
-**End-of-Life Session** (2 hrs):
-Gentle planning, emotional + energetic support, ritual guidance
-£120
-
-**Vigil Sitting** (3-5 hrs): 
-In-person presence in final hours or days, holding sacred space with quiet care
-£200 - £300 
-
-**After-Death Washing of the Body Ritual** (2-3hrs):
-For the family/community: soul honoring, grief tending.
-£200-£300
-
-**Bespoke Living Wake Ceremony planning and facilitation** (Starting at £300):
-A sacred gathering to honour a life
-while the heart still beats.
-Stories, song, ritual, love spoken aloud.
-Not a funeral, but a blessing in the living.
 
 ----
 
 > All beliefs, backgrounds, and identities are welcome.  
 > I do not force a spiritual lens, I only offer what resonates.
+
+**The financial exchange for this offering is sliding scale based on your income and what needs you have. Please get in touch to discuss options and to figure out a package of support that meets your needs.**
 
 > My death doula care is offered to people of all ages, from the very young to the deeply lived.
 > Each transition is held with tenderness, reverence, and presence.
