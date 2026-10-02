@@ -9,6 +9,6 @@ id: 'contact'
 
 ![Yemaya Rodriguez](/img/contact.jpg)
 
-There are several ways to contact me; you can message me on Facebook and Instagram, and email is best. You can use the form below.  
+There are several ways to contact me; you can message me on Facebook and [Instagram](https://www.instagram.com/cosmic_earth_medicine_/), and email is best. You can use the form below.  
 With love,  
 Yemaya.
