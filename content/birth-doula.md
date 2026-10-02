@@ -3,22 +3,18 @@ title: Birth Doula
 whatWeDoHere: 5
 ---
 
-## Ritual Doula: Full Journey
+## Ritual Doula
 
-Package £1,700 -£2,200 sliding scale
-In-person only. Birth Cover and 7 Sessions Total
-(5 Prenatal and 2 Postpartum)
+I am no longer accompanying women and families for live births unless there are exceptional circumstances ex; premature birth or baby has life threatening health challenges upon separation from the Mother.
 
-This offering is an intimate, ceremonial pathway created for mothers seeking not only support but deep teachings on ritual and spiritual birth preparation.
+I will accompany women and families through miscarriage and abortion. Some people don’t like abortion to be in the same sentence as miscarriage. And in certain places around the world one is illegal and the other is questioned suspiciously. But either way, this is a soul who never makes it earth-side breathing, this time round. And that soul and yours can thrive with presence, love, communication and maybe a cutting of chords or soul contracts is could be needed.
 
-This Ritual Doula Package is a deeply embodied 1:1 journey that spans five prenatal sessions and two postpartum ceremonies, held entirely in person. It is a sacred weaving of traditional midwifery wisdom, energy healing, guided meditation, bodywork, prayer, nature immersions, connection and sharing.
+I will be your doula as you birth. However far along in your pregnancy you are, we hold this sacred moment with ceremony. I will support you to navigate any feelings or thoughts that cause you harm and to nourish your body through this birthing.
+I will hold space for your grief, and witness your process.
+Sister to sister, know that I am present without judgment and with so much love.
 
-Each session moves through a medicine wheel of the elements, guiding you into spiritual preparation for birth and a rooted return in postpartum. Together we activate ancestral connection, soften the body with rebozo and breath, walk through water cleansing and fire prayer, call in your soul, and craft your altar and birth mantra. 
-We share prayer, we connect, we refine your birth plan and expand your visions and manifestations for birth calling in the divine to support your every step. 
+The financial exchange for this offering is sliding scale based on your income. Please get in touch to discuss this if you wish for my support.
 
-I will be on call 10 days before the estimated due date until the birth of your baby. I will show up as a sister, a friend,  in love and as a fierce protector of your family’s birthing space.
-
-Of course, ongoing WhatsApp/text check-ins are available during the time we walk together. 
 
 ![](/img/birth-doula.jpg)
 

@@ -216,3 +216,21 @@ figure img {
 }
 
 .subscription {}
+
+/* centered image, see layouts/shortcodes/center-image.html */
+img.center-image {
+  display: block;
+  margin: 1em auto;
+  width: 50%;
+}
+
+/* links in running text are underlined */
+#blog-post p a,
+#blog-post li a {
+  text-decoration: underline;
+}
+
+/* brighter links in the footer */
+#copyright a {
+  color: var(--bright-text-on-dark);
+}

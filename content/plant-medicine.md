@@ -21,3 +21,12 @@ Clients I work with do not have to consume any medicine, the dieta energy channe
 ![](/img/rono.jpeg)
 
 My Maestro Don Rono and I in 2025.
+
+
+## Nicco and I
+
+I work closely with my partner Nicco for all shamanic ceremony. He holds plant dieta’s also in the Shipibo lineage. He is a safe and sensitive energy worker, musician, and father; channelling the most beautiful and powerful healings. Currently he offers a mens group and pipe making workshops. Message him here for more information.
+
+![](/img/yemaya_and_nicco_noya_rao.jpg)
+
+My partner Nicco and I in 2026 in Peru with the sacred tree Noya Rao. 
