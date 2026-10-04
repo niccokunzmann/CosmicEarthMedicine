@@ -1,1 +1,4 @@
 <script src="{{ "js/newsletter.js" | relURL }}"></script>
+{{ if strings.Contains .Content "data-hievents-id" }}
+<script async src="https://app.hi.events/widget.js"></script>
+{{ end }}

@@ -11,6 +11,10 @@ linkTitle:
 
 ---
 
+{{< two-images src1="/img/temple/IMG_3516.jpg" src2="/img/temple/IMG_3517.jpg" >}}
+
+Tŷ Marusa Healing Temple
+
 ## Tŷ Marusa Healing Offerings:
 
 ---
@@ -46,6 +50,7 @@ I will make notes and store them for future sessions in line with the Data Prote
 
 ---
 
-{{< two-images src1="/img/temple/IMG_3516.jpg" src2="/img/temple/IMG_3517.jpg" >}}
 
-Tŷ Marusa Healing Temple
+{{< rawhtml >}}
+<div data-hievents-id="11543" data-hievents-primary-color="#946748ff" data-hievents-primary-text-color="#000000" data-hievents-secondary-color="#946748ff" data-hievents-secondary-text-color="#ffffff" data-hievents-background-color="#ffffff" data-hievents-widget-type="widget" data-hievents-widget-version="1.0" data-hievents-locale="en" data-hievents-padding="20px" data-hievents-autoresize="true" data-hievents-continue-button-text="Book Now" class="hievents-widget"></div>
+{{< /rawhtml >}}
