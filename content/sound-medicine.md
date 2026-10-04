@@ -46,6 +46,10 @@ If you feel the call to explore sound as a path to healing, remembering, and rec
 I would be honoured to hold space for you.
 Email me to book your session or ask any questions: [contact me](/contact/).
 
+{{< rawhtml >}}
+<div data-hievents-id="11544" data-hievents-primary-color="#946748ff" data-hievents-primary-text-color="#000000" data-hievents-secondary-color="#946748ff" data-hievents-secondary-text-color="#ffffff" data-hievents-background-color="#ffffff" data-hievents-widget-type="widget" data-hievents-widget-version="1.0" data-hievents-locale="en" data-hievents-padding="20px" data-hievents-autoresize="true" data-hievents-continue-button-text="Book Now" class="hievents-widget"></div>
+{{< /rawhtml >}}
+
 
 ## Group Sound Journeys
 
@@ -81,7 +85,7 @@ Let the sound hold what words cannot.
 
 ### Where to Find Me
 
-Carmarthenshire & Cardiff (ongoing circles)
+Newport & Cardiff (ongoing circles)
 See below for current dates or follow along on [Instagram](https://www.instagram.com/cosmic_earth_medicine_/) / Facebook for pop-up sessions, seasonal gatherings, and special collaborations.
 
 ### Join the Circle
@@ -92,6 +96,11 @@ Or connect via [Instagram]
 
 Come with an open heart, and leave with a lighter soul.
 The sound is waiting.
+
+{{< rawhtml >}}
+<div data-hievents-id="11538" data-hievents-primary-color="#946748ff" data-hievents-primary-text-color="#000000" data-hievents-secondary-color="#593e2b" data-hievents-secondary-text-color="#ffffff" data-hievents-background-color="#ffffff" data-hievents-widget-type="widget" data-hievents-widget-version="1.0" data-hievents-locale="en" data-hievents-padding="20px" data-hievents-autoresize="true" data-hievents-continue-button-text="Book Now" class="hievents-widget"></div>
+{{< /rawhtml >}}
+
 
 [Instagram]: https://www.instagram.com/cosmic_earth_medicine_/
 
