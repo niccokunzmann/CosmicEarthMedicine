@@ -86,6 +86,12 @@ enableGitInfo = true
     weight     = 13
 
 [[menu.main]]
+    name       = "Integration"
+    identifier = "section.ap-integration"
+    url        = "/integration/"
+    weight     = 14
+
+[[menu.main]]
     name       = "Kambô Ceremony"
     identifier = "section.ap-kambo-ceremony"
     url        = "/kambo-ceremony/"
