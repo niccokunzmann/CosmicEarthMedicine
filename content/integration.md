@@ -21,7 +21,7 @@ I listen, reflect and offer wisdom when asked. It’s like I let my clients borr
 
 This is often why some people end up thinking these Earth Medicines are “bad” because they have been misinterpreting their visions, which come from a cosmology and culture they don’t understand, and allowing random loved ones opinions and judgement into their fresh process. It can get really messy. 
 
-Even if you don’t book in with me, here are my too 6 integration tips:
+Even if you don’t book in with me, here are my top 6 integration tips:
 
 - Ask your body what it needs and wants throughout the day
 - Keep a dream diary 
